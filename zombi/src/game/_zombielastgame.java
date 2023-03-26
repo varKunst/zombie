@@ -12,8 +12,6 @@ public class _zombielastgame {
 		Zombie zom = new Zombie(5, 100, 10);
 		Boss boss = new Boss(9, 300, 20, 100);
 
-
-		
 		int pos = 1;
 		hero.setPos(pos);
 		while (true) {
